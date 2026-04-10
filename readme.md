@@ -6,4 +6,4 @@ The purpose of [The Liberators](https://github.com/theliberators/facilitation-ma
 
 # LICENSE
 
-Our materials are licensed under Creative Commons 4.0 BY-NC-ND. This means you are allowed to use it and distribute it, but you can not use it for commercial purposes or modify it. Additionally, proper attribution is always required ("The Liberators - Barry Overeem & Christiaan Verwijs").
+Unless otherwise specified, our materials are licensed under Creative Commons 4.0 BY-NC-ND. This means you are allowed to use it and distribute it, but you can not use it for commercial purposes or modify it. Additionally, proper attribution is always required ("The Liberators - Barry Overeem & Christiaan Verwijs").
