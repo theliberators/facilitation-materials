@@ -1,4 +1,4 @@
-![The Liberators]()
+<img width="6400" height="2000" alt="logo" src="https://github.com/user-attachments/assets/6d6cb921-a6f7-4ff4-b8a1-c01db58a8de9" />
 
 # THE LIBERATORS - FACILITATION MATERIALS
 
