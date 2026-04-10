@@ -1,4 +1,4 @@
-<img width="50%" alt="logo" src="https://github.com/user-attachments/assets/f7a882f2-ffa4-414c-9c4c-9566b735cb59" />
+<img height="300" alt="logo" src="https://github.com/user-attachments/assets/f7a882f2-ffa4-414c-9c4c-9566b735cb59" />
 
 # THE LIBERATORS - FACILITATION MATERIALS
 
