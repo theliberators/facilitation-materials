@@ -10,6 +10,8 @@ We wish to thank all the sponsors - our patrons, customers - who helped us creat
 
 Unless otherwise specified, our materials are licensed under Creative Commons 4.0 BY-NC-ND. This means you are allowed to use it and distribute it, but you can not use it for commercial purposes or modify it. Additionally, proper attribution is always required ("The Liberators - Barry Overeem & Christiaan Verwijs").
 
+<img width="403" height="141" alt="CreativeCommons" src="https://github.com/user-attachments/assets/c9e7cf64-fc2b-43b2-8cf3-23ddc163b223" />
+
 # CONTACT
 
 If you wish to contact us, please send an email to info@theliberators.com. Or visit our website at https://theliberators.com.
